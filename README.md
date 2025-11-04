@@ -28,4 +28,13 @@ In this project, we:
 ---
 
 ## 📂 Project Structure
+📁 logistic regression/
+│
+├── .ipynb_checkpoints/       # Auto-saved Jupyter checkpoints
+├── .gitignore                # Files to ignore in Git
+├── iris.csv                  # Dataset (downloaded from Kaggle)
+├── logistic_model.pkl        # Trained Logistic Regression model
+├── README.md                 # Project documentation (for GitHub)
+├── test_model.ipynb          # Notebook for testing saved model
+└── train_model.ipynb         # Notebook for training & saving model
 
