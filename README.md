@@ -40,3 +40,15 @@ In this project, we:
 
 └── train_model.ipynb         # Notebook for training & saving model
 
+
+##❤Author
+
+Developed by **Kanha Patidar**
+
+Branch: B.Tech CSIT
+
+Semester: 5th Sem
+
+College: Chameli Devi Group of Institutions, Indore
+
+
